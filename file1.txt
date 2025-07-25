@@ -1,0 +1,13 @@
+
+
+#include <stdio.h>
+int main(){
+printf("\niam main.c\n");
+printf("\ncalling hello function\n");
+hello();
+printf("\ncalling add function\n");
+add(30,13);
+printf("\nback to main.c\n");
+}
+
+
